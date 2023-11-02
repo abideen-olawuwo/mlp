@@ -3,7 +3,7 @@ import urllib.request as request
 from zipfile import ZipFile
 import tensorflow as tf
 from pathlib import Path
-from mlp.entity.config_entity import PrepareBaseModelConfig
+from pneumoniaClassifier.entity.config_entity import PrepareBaseModelConfig
 
 
 class PrepareBaseModel:

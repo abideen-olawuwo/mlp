@@ -1,6 +1,6 @@
-from mlp.config.configuration import ConfigurationManager
-from mlp.components.data_ingestion import DataIngestion
-from mlp import logger
+from pneumoniaClassifier.config.configuration import ConfigurationManager
+from pneumoniaClassifier.components.data_ingestion import DataIngestion
+from pneumoniaClassifier import logger
 
 STAGE_NAME = "Data Ingestion stage"
 

@@ -1,6 +1,6 @@
-from mlp.config.configuration import ConfigurationManager
-from mlp.components.model_training import Training
-from mlp import logger
+from pneumoniaClassifier.config.configuration import ConfigurationManager
+from pneumoniaClassifier.components.model_training import Training
+from pneumoniaClassifier import logger
 
 
 STAGE_NAME = "Training"

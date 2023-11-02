@@ -1,6 +1,6 @@
-from mlp.config.configuration import ConfigurationManager
-from mlp.components.model_evaluation_mlflow import Evaluation
-from mlp import logger
+from pneumoniaClassifier.config.configuration import ConfigurationManager
+from pneumoniaClassifier.components.model_evaluation_mlflow import Evaluation
+from pneumoniaClassifier import logger
 
 
 

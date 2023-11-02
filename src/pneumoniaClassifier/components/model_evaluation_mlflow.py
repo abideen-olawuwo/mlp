@@ -3,8 +3,8 @@ from pathlib import Path
 import mlflow
 import mlflow.keras
 from urllib.parse import urlparse
-from mlp.entity.config_entity import EvaluationConfig
-from mlp.utils.common import read_yaml, create_directories, save_json
+from pneumoniaClassifier.entity.config_entity import EvaluationConfig
+from pneumoniaClassifier.utils.common import read_yaml, create_directories, save_json
 
 
 class Evaluation:

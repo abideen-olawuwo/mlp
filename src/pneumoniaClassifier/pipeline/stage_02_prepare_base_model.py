@@ -1,6 +1,6 @@
-from mlp.config.configuration import ConfigurationManager
-from mlp.components.prepare_base_model import PrepareBaseModel
-from mlp import logger
+from pneumoniaClassifier.config.configuration import ConfigurationManager
+from pneumoniaClassifier.components.prepare_base_model import PrepareBaseModel
+from pneumoniaClassifier import logger
 
 
 STAGE_NAME = "Prepare base model"

@@ -1,9 +1,9 @@
 import os
 import zipfile
 import gdown
-from mlp import logger
-from mlp.utils.common import get_size
-from mlp.entity.config_entity import (DataIngestionConfig)
+from pneumoniaClassifier import logger
+from pneumoniaClassifier.utils.common import get_size
+from pneumoniaClassifier.entity.config_entity import (DataIngestionConfig)
 
 
 
